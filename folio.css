@@ -1,0 +1,19 @@
+.cv nav img {
+    width: 714px;
+    height: 830px;
+    border-radius: 71px;
+    margin-left: 374px;
+    margin-top: 58px;
+    border: 10px solid #EE6C4D;
+
+
+}
+
+
+.tagline nav h1{
+    position: absolute;
+    display: block;
+    border: solid 3px #EE6C4D;
+    border-radius: 20px;
+    color: white;
+}
